@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f143c2e-6d45-4a74-ba82-cc5faac8c080" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacao.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacao.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacao.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacao.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641934556077</updated>
-      <workItem from="1641934558179" duration="4089000" />
+      <workItem from="1641934558179" duration="4685000" />
+      <workItem from="1641943679256" duration="2022000" />
+      <workItem from="1642102604945" duration="1783000" />
     </task>
     <servers />
   </component>
