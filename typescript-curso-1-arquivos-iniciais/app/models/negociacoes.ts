@@ -1,16 +1,16 @@
 import {Negociacao} from "./negociacao";
 
-/classe Negociacoes que irá guardar uma lista de negociacoes
+// /classe Negociacoes que irá guardar uma lista de negociacoes
 export class Negociacoes {
-    private negociacoes: Array<Negociacoes> = [];
+    private negociacoes: Negociacao[] = [];
 
 //    criar um metodo para chamar ele depois
-    adiciona(negociacao: Negociacoes){
+    adiciona(negociacao: Negociacao){
         this.negociacoes.push(negociacao);
     }
 
 //    metodo que ira retornar uma lista de negociacoes
-    lista(): ReadonlyArray<Negociacoes>{
+    lista(): readonly Negociacao[] {
         return this.negociacoes;
     }
 }

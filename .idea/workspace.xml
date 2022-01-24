@@ -5,8 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacao.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacao.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacao.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacoes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacoes.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,9 @@
       <workItem from="1641934558179" duration="4685000" />
       <workItem from="1641943679256" duration="2022000" />
       <workItem from="1642102604945" duration="1783000" />
+      <workItem from="1642541546443" duration="1153000" />
+      <workItem from="1642714461900" duration="3237000" />
+      <workItem from="1643055585626" duration="3917000" />
     </task>
     <servers />
   </component>
