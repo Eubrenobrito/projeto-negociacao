@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f143c2e-6d45-4a74-ba82-cc5faac8c080" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/negociacoes-view.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/app.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacao.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacao.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacoes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacoes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/negociacoes-view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/negociacoes-view.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacao.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/negociacoes-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/negociacoes-view.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +66,8 @@
       <workItem from="1643055585626" duration="4498000" />
       <workItem from="1643318210671" duration="595000" />
       <workItem from="1643377977046" duration="7389000" />
+      <workItem from="1643394645076" duration="2743000" />
+      <workItem from="1643397638499" duration="1375000" />
     </task>
     <servers />
   </component>
