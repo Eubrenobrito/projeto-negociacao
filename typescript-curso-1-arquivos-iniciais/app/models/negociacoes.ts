@@ -1,4 +1,4 @@
-import {Negociacao} from "./negociacao";
+import {Negociacao} from "./negociacao.js";
 
 // /classe Negociacoes que irá guardar uma lista de negociacoes
 export class Negociacoes {
@@ -15,5 +15,5 @@ export class Negociacoes {
     }
 }
 
-const negociacioes = new Negociacoes();
-negociacioes.adiciona(new Negociacao())
+// const negociacioes = new Negociacoes();
+// negociacioes.adiciona(new negociacao());

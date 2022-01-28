@@ -4,7 +4,7 @@ export class Negociacao {
         public readonly quantidade: number,
         public readonly valor: number
     ) {}
-    //ESTUDAR COMO É UMA CLASSE
+    //ESTUDAR MAIS SOBRE CLASSE
 
     get volume(): number{
         return this.quantidade * this.valor;
