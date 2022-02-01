@@ -7,7 +7,7 @@ export class NegociacoesView {
     constructor(seletor:string) {
         this.elemento = document.querySelector(seletor);
     }
-    //o metodo template serve para declarar da view
+    //o metodo template serve para declarar a view
     template(model: Negociacoes): string {
         return `
            <table class="table table-hover table-bordered">
