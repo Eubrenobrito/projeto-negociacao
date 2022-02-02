@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f143c2e-6d45-4a74-ba82-cc5faac8c080" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/mensagens-view.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/view.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/app.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacoes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacoes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/mensagens-view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/mensagens-view.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/negociacoes-view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/negociacoes-view.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/mensagens-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/mensagens-view.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/negociacoes-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/negociacoes-view.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +76,8 @@
       <workItem from="1643594473856" duration="595000" />
       <workItem from="1643640856060" duration="1960000" />
       <workItem from="1643654439899" duration="638000" />
-      <workItem from="1643740380446" duration="323000" />
+      <workItem from="1643740380446" duration="5684000" />
+      <workItem from="1643827218232" duration="7361000" />
     </task>
     <servers />
   </component>

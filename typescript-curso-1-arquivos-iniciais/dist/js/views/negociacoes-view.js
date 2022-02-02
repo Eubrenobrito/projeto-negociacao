@@ -1,7 +1,5 @@
-export class NegociacoesView {
-    constructor(seletor) {
-        this.elemento = document.querySelector(seletor);
-    }
+import { View } from "./view.js";
+export class NegociacoesView extends View {
     //o metodo template serve para declarar a view
     template(model) {
         return `
@@ -17,7 +15,7 @@ export class NegociacoesView {
                     ${model.lista().map(negociacao => {
             return `
                             <tr class="text-center">
-                                <td >${new Intl.DateTimeFormat().format(negociacao.data)}</td>
+                                <td >${this.formatar(negociacao.data)}</td>
                                 <td >${negociacao.quantidade}</td>
                                 <td >${negociacao.valor}</td>
                             </tr>
@@ -27,6 +25,10 @@ export class NegociacoesView {
                 </tbody>
            </table> 
            `;
+    }
+    formatar(data) {
+        return new Intl.DateTimeFormat()
+            .format(data);
     }
     // método update serve para renderizar o template no elemento que foi capturado atraves do construtor(seletor)
     update(model) {

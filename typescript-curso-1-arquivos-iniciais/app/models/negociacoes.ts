@@ -5,12 +5,12 @@ export class Negociacoes {
     private negociacoes: Negociacao[] = [];
 
 //    criar um metodo para chamar ele depois
-    adiciona(negociacao: Negociacao){
+    public adiciona(negociacao: Negociacao){
         this.negociacoes.push(negociacao);
     }
 
 //    metodo que ira retornar uma lista de negociacoes
-    lista(): readonly Negociacao[] {
+    public lista(): readonly Negociacao[] {
         return this.negociacoes;
     }
 }
