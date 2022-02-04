@@ -1,0 +1,1 @@
+neste diretorio ficarão todos os enumerations do projeto
