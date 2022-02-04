@@ -1,7 +1,5 @@
-// Criando uma enumeraçãp
 export var DiasDaSemana;
 (function (DiasDaSemana) {
-    //    VALORES QUE NAO MUDARÃO DENTRO DA ENUM
     DiasDaSemana[DiasDaSemana["DOMINGO"] = 0] = "DOMINGO";
     DiasDaSemana[DiasDaSemana["SEGUNDA"] = 1] = "SEGUNDA";
     DiasDaSemana[DiasDaSemana["TERCA"] = 2] = "TERCA";

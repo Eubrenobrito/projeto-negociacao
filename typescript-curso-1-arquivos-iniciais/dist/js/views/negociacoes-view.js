@@ -1,6 +1,5 @@
 import { View } from "./view.js";
 export class NegociacoesView extends View {
-    //o metodo template serve para declarar a view
     template(model) {
         return `
            <table class="table table-hover table-bordered">
@@ -30,7 +29,6 @@ export class NegociacoesView extends View {
         return new Intl.DateTimeFormat()
             .format(data);
     }
-    // método update serve para renderizar o template no elemento que foi capturado atraves do construtor(seletor)
     update(model) {
         const template = this.template(model);
         console.log(template);
