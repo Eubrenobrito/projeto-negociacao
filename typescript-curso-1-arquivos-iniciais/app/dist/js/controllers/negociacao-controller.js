@@ -36,6 +36,6 @@ export class NegociacaoController {
     }
     atualizaView() {
         this.negociacoesView.update(this.negociacoes);
-        this.mensagemView.update('Negociação adicionada com sucesso');
+        this.mensagemView.update(' Sua negociação foi adicionada com sucesso.');
     }
 }
