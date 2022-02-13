@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f143c2e-6d45-4a74-ba82-cc5faac8c080" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/src/decorators/logar-tempo-de-execucao.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/controllers/negociacao-controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacao.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/models/negociacao.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/views/view.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/controllers/negociacao-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/enums/dias-da-semana.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/enums/dias-da-semana.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacao.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacao.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacoes.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/models/negociacoes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/mensagens-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/mensagens-view.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/negociacoes-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/negociacoes-view.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/view.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/dist/js/views/view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/dist/js/controllers/negociacao-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/dist/js/views/view.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/dist/js/views/view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/src/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/src/controllers/negociacao-controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/src/views/view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/app/src/views/view.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-curso-1-arquivos-iniciais/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,10 +45,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ANGULAR" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="E:\PROGRAMACAO\git-breno\TYPESCRIPT\typescript-curso-1-arquivos-iniciais\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -84,6 +80,11 @@
       <workItem from="1643827218232" duration="7361000" />
       <workItem from="1643920649579" duration="2712000" />
       <workItem from="1644002094721" duration="5020000" />
+      <workItem from="1644242633938" duration="595000" />
+      <workItem from="1644246351995" duration="1975000" />
+      <workItem from="1644262677496" duration="1765000" />
+      <workItem from="1644267468793" duration="3198000" />
+      <workItem from="1644432621629" duration="1059000" />
     </task>
     <servers />
   </component>
